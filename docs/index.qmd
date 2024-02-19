@@ -4,18 +4,19 @@ author: "Taiwan Medical Mission (TMM)"
 format: html
 ---
 
----------------------------------------
- 
+------------------------------------------------------------------------
+
+![](images/TMM_logo.svg){fig-align="right" width="68"}
 
 The Visiting Scholarship program, launched in 2024, aims to encourage outstanding health professionals from Somaliland to pursue focused training in Taiwan. This deepens understanding of Taiwan’s healthcare environment and enhances future exchanges and partnerships.
 
-## Programs  
+## Programs
 
 **1. Fellowship Program**
 
-Specialized professional training in medical, nursing, or allied health fields at Taipei Municipal Wanfang Hospital (TMWH) for up to 3 months.  
+Specialized professional training in medical, nursing, or allied health fields at Taipei Municipal Wanfang Hospital (TMWH) for up to 3 months.
 
-**2. Observership Program** 
+**2. Observership Program**
 
 Shadowing opportunities across clinical and non-clinical departments at Taipei Municipal Wanfang Hospital for up to 2 weeks.
 
@@ -23,9 +24,7 @@ Shadowing opportunities across clinical and non-clinical departments at Taipei M
 
 **Observership Program:** Up to 2 weeks; for hospital administration
 
-**Fellowship Program:** Up to 3 months; the training curriculum will cover aspects mentioned below Participants will serve as conduits for knowledge transfer to build capacity at Hargeisa Hospital upon return.  
-
-
+**Fellowship Program:** Up to 3 months; the training curriculum will cover aspects mentioned below Participants will serve as conduits for knowledge transfer to build capacity at Hargeisa Hospital upon return.
 
 ## 15 Scholars
 
@@ -33,48 +32,47 @@ The Taiwan Medical Mission Visiting Scholar Program to Taipei is slated to host 
 
 This is an opportunity for focused training at Taipei Municipal Wanfang Hospital in your specialty areas like:
 
-- Hospital Administration
+-   Hospital Administration
 
-- Operation theatre (OT) management
+-   Operation theatre (OT) management
 
-- Orthopedics
+-   Orthopedics
 
-- Neurosurgery
+-   Neurosurgery
 
-- Pathology
+-   Pathology
 
-- NCD clinic and case management
+-   NCD clinic and case management
 
-
-## Eligibility   
+## Eligibility
 
 **Practicing professionals at Hargeisa Group Hospital with:**
 
-- Currently employed at Hargeisa Group Hospital
+-   Currently employed at Hargeisa Group Hospital
 
-- Minimum 1 year of experience post-qualification 
+-   Minimum 1 year of experience post-qualification
 
-- Good professional standing  
+-   Good professional standing
 
-- English language proficiency
+-   English language proficiency
 
-- Endorsement from **department head**
+-   Endorsement from **department head**
 
 ## How To Apply
 
-**Step 1:** Visit [website URL] and download application form 
+**Step 1:** Visit \[https://texchi2.github.io/2024TMM_scholarship/index.html\] and download application form: <a href="ApplicationForm_VisitingScholarship.docx" class="button">Download This File</a>
 
-**Step 2** Please fill [2024 SCHOLARSHIP APPLICATION FORM] (refer our "an example" below)
+**Step 2** Please fill \[2024 SCHOLARSHIP APPLICATION FORM\] (refer our "an example" below)
 
-**Step 3:** Submit completed application and supporting documents to [tmm2022sln@gmail.com] by 26 February 2024 (deadline)
+**Step 3:** Submit completed application and supporting documents to \[tmm2022sln\@gmail.com\] by 26 February 2024 (deadline)
 
 **Step 4:** Shortlisted candidates will be notified for interviews
 
-**Step 5:** Final selections announced and placement confirmations  
+**Step 5:** Final selections announced and placement confirmations
 
-**Contact:** Dr. Tex Li-Hsing Chi, TMM chief  
+**Contact:** Dr. Tex Li-Hsing Chi, TMM chief
 
-**Email:** [tmm2022sln@gmail.com]  
+**Email:** \[tmm2022sln\@gmail.com\]
 
 Submit inquiries and complete the streamlined application process to unlock this invaluable Taiwan training opportunity!
 
@@ -82,9 +80,7 @@ Submit inquiries and complete the streamlined application process to unlock this
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-
-
-------------------------------------------------------
+------------------------------------------------------------------------
 
 ## 2024 SCHOLARSHIP APPLICATION FORM (an example)
 
@@ -104,17 +100,17 @@ address <- "Road No One, Hargeisa"
 
 **Name:** `r name`
 
-**Nationality:** `r nationality`  
+**Nationality:** `r nationality`
 
-**Date of Birth:** `r dob` 
+**Date of Birth:** `r dob`
 
-**Age:** `r age`   
+**Age:** `r age`
 
-**Gender:** `r gender`  
+**Gender:** `r gender`
 
 **Marital Status:** `r status`
 
-**Contact Number:** `r contact`   
+**Contact Number:** `r contact`
 
 **Email Address:** `r email`
 
@@ -122,51 +118,56 @@ address <- "Road No One, Hargeisa"
 
 ## Education
 
-**Institution:** University of Hargeisa 
+**Institution:** University of Hargeisa
 
-**Dates Attended:** 08-2015 to 09-2022  
+**Dates Attended:** 08-2015 to 09-2022
 
-**Degree/Certificate:** Bachelor's Degree  
+**Degree/Certificate:** Bachelor's Degree
 
 **Field of Study:** Medicine
 
-## Work Experience 
+## Work Experience
 
 **Employer:** Hargeisa Group Hospital
 
-**Title:** Doctor  
+**Title:** Doctor
 
 **Duration:** 10-2022 to 02-2024
 
+## Personal Statement
 
-## Personal Statement 
+1)  A brief summary of yourself:
 
-1) A brief summary of yourself:
-
-2) What's the motivation for your visiting to TMWH? Discuss how receiving the TMM visiting scholarship to train in your specialty area in Taipei would benefit your professional development and enable you to better serve your home country upon return. (1000 words max):
+2)  What's the motivation for your visiting to TMWH? Discuss how receiving the TMM visiting scholarship to train in your specialty area in Taipei would benefit your professional development and enable you to better serve your home country upon return. (1000 words max):
 
 ## Reference from the Department Head of HGH
 
-**Name:** Abdi Mohamed 
+**Name:** Abdi Mohamed
 
-**Position/Title:** Director of Orthopedic Department  
+**Position/Title:** Director of Orthopedic Department
 
-**Relation:** Colleague  
+**Relation:** Colleague
 
-**Contact:** amoxamed@ortho.hgh
+**Contact:** amoxamed\@ortho.hgh
 
 **Signature:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 **Date:** \_\_\_\_\_\_\_\_\_\_\_\_
 
-I certify that the information provided in this application is accurate to the best of my knowledge. I understand that any misrepresentations may warrant disqualification if discovered even after acceptance.  
+I certify that the information provided in this application is accurate to the best of my knowledge. I understand that any misrepresentations may warrant disqualification if discovered even after acceptance.
 
----------------------------------------
+------------------------------------------------------------------------
 
 ## Contract of Applicant and HGH
+
 As part of the scholarship application process, I hereby commit to returning to Hargeisa Group Hospital (HGH) after completing my studies abroad and contributing my knowledge and skills to improve patient care in Somaliland. During my time at HGH (**at least one year upon return**), I will prioritize effective knowledge transfer by sharing my experiences and insights with colleagues, participating in training programs, and engaging in continuous learning opportunities. Upon returning to my home country, I pledge to continue serving the healthcare community with dedication and professionalism, utilizing the skills and expertise gained during my scholarship program for the betterment of our nation's health outcomes.
 
 **Applicant Signature:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 **Date:** \_\_\_\_\_\_\_\_\_\_\_\_
 
+------------------------------------------------------------------------
+
+This website is hosted and maintained by Taiwan Medical Mission, a humanitarian non-profit organization. We are dedicated to providing medical aid and empowering healthcare professionals internationally.
+
+Copyright Taiwan Medical Mission in the Republic of Somaliland ©2022-2024. All rights reserved.
