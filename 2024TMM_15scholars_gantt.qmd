@@ -22,7 +22,7 @@ format:
 \ganttgroup{Batch 1}{5}{7} \\
 \ganttmilestone{Dr. Chen, TMWH Pathologist TO HGH}{5} \\
     \ganttbar[progress=50]{Dr. Abdirahman (Hospital Director) MoU}{5}{5.5} \\
-    \ganttbar[progress=50]{Dr. ? (ICP Director)}{5}{5.5} \\
+    \ganttbar[progress=50]{Dr. Khadar Good Nur (ICP Director)}{5}{5.5} \\
     \ganttbar[progress=100]{Dr. Saed Osman (Orthopedic)}{5}{7} \\
     \ganttbar[progress=100]{Dr. Mohamed Hassan Nur (Resident, Orthopedic)}{5}{8} \\
     \ganttbar[progress=100]{Dr. Hassan Mohamed Nur (Resident, Orthopedic)}{5}{8} \\
@@ -32,7 +32,7 @@ format:
 \ganttgroup{Batch 2}{7}{9} \\
 \ganttmilestone{Dr. Wei, TMWH Neurosurgeon TO HGH}{7} \\
     \ganttbar[progress=100]{Dr. Saed Mohamed Osman (Resident, Orthopedic)}{7}{10} \\
-    \ganttbar[progress=100]{Dr. A/Rahman Atoosh Abdillahi (Resident, Orthopedic)}{7}{10} \\
+    \ganttbar[progress=100]{Dr. Abdulrahman Adoosh Abdulaahi (Resident, Orthopedic)}{7}{10} \\
     \ganttbar[progress=100]{Dr. Omar (Pathology)}{7}{9} \\
     \ganttbar[progress=100]{Dr. Ahmed Saeed (Orthopedic)}{7}{9} \\
     \ganttbar[progress=100]{Dr. Mustefe (Neurosurgery)}{7}{10} \\
@@ -43,7 +43,7 @@ format:
 \ganttmilestone{TMWH Orthopedic surgeon TO HGH}{9} \\
     \ganttbar[progress=100]{Dr. Yassin Awil (Orthopedic)}{9}{11} \\
     \ganttbar[progress=100]{Dr. Abdulhamid (Neurosurgery)}{9}{11} \\
-    \ganttbar[progress=100]{Dr. Ahmed (NCD clinic)}{9}{11} \\
+    \ganttbar[progress=100]{Dr. Ahmed Hersi (NCD clinic)}{9}{11} \\
     \ganttbar[progress=100]{Dr. ?? (NCD clinic)}{9}{11} \\
     \ganttbar[progress=100]{Mr. Ahmed (Nurse, OT director)}{9}{11}
 
