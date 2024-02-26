@@ -33,9 +33,10 @@ format:
 \ganttmilestone{Dr. Chen, TMWH Orthopedic surgeon TO HGH}{7} \\
     \ganttbar[progress=100]{Dr. Saed Mohamed Osman (Resident, Orthopedic)}{7}{10} \\
     \ganttbar[progress=100]{Dr. Abdulrahman Adoosh Abdulaahi (Resident, Orthopedic)}{7}{10} \\
-    \ganttbar[progress=100]{Dr. Omer Mohamed Bihi (Pathology)}{7}{7} \\
     \ganttbar[progress=100]{Dr. Ahmed Saeed (Orthopedic)}{7}{9} \\
     \ganttbar[progress=100]{Dr. Mustafe Ahmed Yusuf (Neurosurgery)}{7}{10} \\
+    \ganttbar[progress=100]{Dr. Idris Hassan Dahir (Cardiologist)}{7}{9} \\
+
 
 % Dr. Mustefe (Emergency), Miss Rakia (Ward nurse)
 
@@ -44,10 +45,11 @@ format:
     \ganttbar[progress=100]{Dr. Yassin Awil (Orthopedic)}{9}{11} \\
     \ganttbar[progress=100]{Dr. Abdihamid Mohamed Ali  (Neurosurgery)}{9}{11} \\
     \ganttbar[progress=100]{Dr. Ahmed Hersi (NCD clinic)}{9}{11} \\
-    \ganttbar[progress=100]{Dr. Idris Hassan Dahir (Cardiologist)}{9}{11} \\
-    \ganttbar[progress=100]{Mr. Ahmed (Nurse, OT director)}{9}{11}
+    \ganttbar[progress=100]{Mr. Ahmed (Nurse, OT director)}{9}{11} \\
+    \ganttbar[progress=100]{Dr. Omer Mohamed Bihi (Pathology)}{9}{9} 
 
-% *** no \\ here *** Dr. Liban (ICU), Mr. Mustefe (Technician, Pathology)
+% *** no \\ at last line *** 
+% Dr. Liban (ICU), Mr. Mustafe (Technician, Pathology)
 
 
 \end{ganttchart}
