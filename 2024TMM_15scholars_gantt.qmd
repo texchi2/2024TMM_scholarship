@@ -24,8 +24,8 @@ format:
     \ganttbar[progress=50]{Dr. Abdirahman (Hospital Director) MoU}{5}{5.5} \\
     \ganttbar[progress=50]{Dr. Khadar Good Nur (ICP Director)}{5}{5.5} \\
     \ganttbar[progress=100]{Dr. Saed Osman (Orthopedic)}{5}{7} \\
-    \ganttbar[progress=100]{Dr. Mohamed Hassan Nur (Resident, Orthopedic)}{5}{8} \\
-    \ganttbar[progress=100]{Dr. Hassan Mohamed Nur (Resident, Orthopedic)}{5}{10} \\
+    \ganttbar[progress=100]{Dr. Mohamed Hassan Nur (Resident, Orthopedic)}{5}{7} \\
+    \ganttbar[progress=100]{Dr. Hassan Mohamed Nur (Resident, Orthopedic)}{5}{7} \\
 
 %
 
@@ -34,7 +34,7 @@ format:
     \ganttbar[progress=100]{Dr. Saed Mohamed Osman (Resident, Orthopedic)}{7}{10} \\
     \ganttbar[progress=100]{Dr. Abdulrahman Adoosh Abdulaahi (Resident, Orthopedic)}{7}{10} \\
     \ganttbar[progress=100]{Dr. Ahmed Saeed (Orthopedic)}{7}{9} \\
-    \ganttbar[progress=100]{Dr. Mustafe Ahmed Yusuf (Neurosurgery)}{7}{10} \\
+    \ganttbar[progress=100]{Dr. Mustafe Ahmed Yusuf (Neurosurgery)}{7}{11} \\
     \ganttbar[progress=100]{Dr. Idris Hassan Dahir (Cardiologist)}{7}{9} \\
 
 
@@ -43,7 +43,7 @@ format:
 \ganttgroup{Batch 3}{9}{11} \\
 \ganttmilestone{Dr. Wei, TMWH Neurosurgeon TO HGH}{9} \\
     \ganttbar[progress=100]{Dr. Yassin Awil (Orthopedic)}{9}{11} \\
-    \ganttbar[progress=100]{Dr. Abdihamid Mohamed Ali  (Neurosurgery)}{9}{11} \\
+    \ganttbar[progress=100]{Dr. Abdihamid Mohamed Ali  (Neurosurgery)}{9}{12} \\
     \ganttbar[progress=100]{Dr. Ahmed Hersi (NCD clinic)}{9}{11} \\
     \ganttbar[progress=100]{Mr. Ahmed (Nurse, OT director)}{9}{11} \\
     \ganttbar[progress=100]{Dr. Omer Mohamed Bihi (Pathology)}{9}{9} 
