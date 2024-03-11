@@ -44,12 +44,12 @@ format:
 \ganttmilestone{Dr. Wei, TMWH Neurosurgeon TO HGH}{9} \\
     \ganttbar[progress=100]{Dr. Yassin Awil (Orthopedic)}{9}{11} \\
     \ganttbar[progress=100]{Dr. Abdihamid Mohamed Ali  (Neurosurgery)}{9}{12} \\
-    \ganttbar[progress=100]{Dr. Ahmed Hersi (NCD clinic)}{9}{11} \\
+    \ganttbar[progress=100]{Mr. Mustafe (Technician, Pathology)}{9}{11} \\
     \ganttbar[progress=100]{Mr. Ahmed (Nurse, OT director)}{9}{11} \\
     \ganttbar[progress=100]{Dr. Omer Mohamed Bihi (Pathology)}{9}{9} 
 
 % *** no \\ at last line *** 
 % Dr. Liban (ICU), Mr. Mustafe (Technician, Pathology)
-
+% Dr. Ahmed Hersi (NCD clinic)
 
 \end{ganttchart}
