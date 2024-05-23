@@ -28,7 +28,7 @@ format:
 %    \ganttbar[progress=100]{Dr. Saed Osman (Orthopedic)}{6}{8} \\
     \ganttbar[progress=100]{Dr. Abdulrahmaan Adoosh Abdulaahi (Resident, Orthopedic)}{6}{8} \\
     \ganttbar[progress=100]{Dr. Hassan Mohamoud Nour (Resident, Orthopedic)}{6}{8} \\
-    \ganttbar[progress=100]{Mr. Ahmed Hussein (Nurse, OT director)}{6}{8} \\
+    \ganttbar[progress=100]{Mr. Ahmed Hussein Jama (Nurse, OT director)}{6}{8} \\
     \ganttbar[progress=100]{Dr. Mustafe Ahmed Yusuf (Neurosurgery)}{6}{8} \\ 
 %
 
@@ -41,7 +41,7 @@ format:
     \ganttbar[progress=100]{Dr. Abdihamid Mohamed Ali  (Neurosurgery)}{7}{9} \\
     \ganttbar[progress=100]{Dr. Adnan Sayid Abdo (General Surgery)}{7}{9} \\
     \ganttbar[progress=100]{Dr. Omer Mohamed Bihi (Pathology)}{7}{9} \\ % HPV DNA
-    \ganttbar[progress=100]{Dr. Idris Hassan Dahir (Cardiologist)}{7}{9} \\  % CCU, ICU
+    \ganttbar[progress=100]{Dr. Idiris Hassan Dahir (Cardiologist)}{7}{9} \\  % CCU, ICU
 
 %
 % Dr. Chen, TMWH Orthopedic surgeon TO HGH
