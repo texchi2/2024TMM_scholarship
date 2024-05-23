@@ -20,15 +20,16 @@ format:
     \gantttitlelist{1,...,12}{1} \\ % Months from January to December
     
 % Dr. Chen, TMWH Pathologist TO HGH
-% ***** 2025 Dr. Abdilahi Abdi (general surgery)
+% ***** 2025; or 2024 backup: Dr. Abdilahi Abdi (general surgery), Dr. Afnan (general surgery, after delivery her baby)
+
 \ganttgroup{Batch 1}{6}{8} \\
 %\ganttmilestone{}{6} \\
     \ganttbar[progress=100]{Dr. Nouh Ismail Mohamed (General Surgery)}{6}{8} \\
 %    \ganttbar[progress=100]{Dr. Saed Osman (Orthopedic)}{6}{8} \\
-    \ganttbar[progress=100]{Dr. Abdulrahman Adoosh Abdulaahi (Resident, Orthopedic)}{6}{8} \\
+    \ganttbar[progress=100]{Dr. Abdulrahmaan Adoosh Abdulaahi (Resident, Orthopedic)}{6}{8} \\
     \ganttbar[progress=100]{Dr. Hassan Mohamoud Nour (Resident, Orthopedic)}{6}{8} \\
     \ganttbar[progress=100]{Mr. Ahmed Hussein (Nurse, OT director)}{6}{8} \\
-
+    \ganttbar[progress=100]{Dr. Mustafe Ahmed Yusuf (Neurosurgery)}{6}{8} \\ 
 %
 
 % Dr. Mustefe (Emergency), Miss Rakia (Ward nurse)
@@ -50,7 +51,7 @@ format:
     \ganttbar[progress=100]{Dr. Saed Mohamed Osman (Resident, Orthopedic)}{9}{11} \\
     \ganttbar[progress=100]{Dr. Mohamed Hassan Nur (Resident, Orthopedic)}{9}{11} \\
 %    \ganttbar[progress=100]{Dr. Ahmed Saeed (Orthopedic)}{9}{11} \\
-    \ganttbar[progress=100]{Dr. Mustafe Ahmed Yusuf (Neurosurgery)}{9}{11} \\ 
+%    \ganttbar[progress=100]{Dr. Mustafe Ahmed Yusuf (Neurosurgery)}{9}{11} \\ 
     \ganttbar[progress=100]{Mr. Mustafe (Technician, Pathology)}{9}{11} 
 
 
