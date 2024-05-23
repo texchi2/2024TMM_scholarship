@@ -21,6 +21,7 @@ format:
     
 % Dr. Chen, TMWH Pathologist TO HGH
 % ***** 2025; or 2024 backup: Dr. Abdilahi Abdi (general surgery), Dr. Afnan (general surgery, after delivery her baby)
+% 2025: hemodialysis centre; blood bank technicians
 
 \ganttgroup{Batch 1}{6}{8} \\
 %\ganttmilestone{}{6} \\
