@@ -22,12 +22,11 @@ format:
 % Dr. Chen, TMWH Pathologist TO HGH
 % ***** 2025 Dr. Abdilahi Abdi (general surgery)
 \ganttgroup{Batch 1}{6}{8} \\
-\ganttmilestone{}{6} \\
-    \ganttbar[progress=100]{Dr. Abdihamid Mohamed Ali  (Neurosurgery)}{6}{8} \\
+%\ganttmilestone{}{6} \\
     \ganttbar[progress=100]{Dr. Nouh Ismail Mohamed (General Surgery)}{6}{8} \\
 %    \ganttbar[progress=100]{Dr. Saed Osman (Orthopedic)}{6}{8} \\
     \ganttbar[progress=100]{Dr. Abdulrahman Adoosh Abdulaahi (Resident, Orthopedic)}{6}{8} \\
-    \ganttbar[progress=100]{Dr. Hassan Mohamed Nur (Resident, Orthopedic)}{6}{8} \\
+    \ganttbar[progress=100]{Dr. Hassan Mohamoud Nour (Resident, Orthopedic)}{6}{8} \\
     \ganttbar[progress=100]{Mr. Ahmed Hussein (Nurse, OT director)}{6}{8} \\
 
 %
@@ -36,8 +35,9 @@ format:
 % Dr. Wei, TMWH Neurosurgeon TO HGH
 
 \ganttgroup{Batch 2}{7}{9} \\
-\ganttmilestone{}{7} \\
+%\ganttmilestone{}{7} \\
 %    \ganttbar[progress=100]{Dr. Yassin Awil (Orthopedic)}{7}{9} \\
+    \ganttbar[progress=100]{Dr. Abdihamid Mohamed Ali  (Neurosurgery)}{7}{9} \\
     \ganttbar[progress=100]{Dr. Adnan Sayid Abdo (General Surgery)}{7}{9} \\
     \ganttbar[progress=100]{Dr. Omer Mohamed Bihi (Pathology)}{7}{9} \\ % HPV DNA
     \ganttbar[progress=100]{Dr. Idris Hassan Dahir (Cardiologist)}{7}{9} \\  % CCU, ICU
@@ -46,7 +46,7 @@ format:
 % Dr. Chen, TMWH Orthopedic surgeon TO HGH
 
 \ganttgroup{Batch 3}{9}{11} \\
-\ganttmilestone{}{9} \\
+%\ganttmilestone{}{9} \\
     \ganttbar[progress=100]{Dr. Saed Mohamed Osman (Resident, Orthopedic)}{9}{11} \\
     \ganttbar[progress=100]{Dr. Mohamed Hassan Nur (Resident, Orthopedic)}{9}{11} \\
 %    \ganttbar[progress=100]{Dr. Ahmed Saeed (Orthopedic)}{9}{11} \\
